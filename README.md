@@ -614,4 +614,4 @@ method that is used in the `Kernel` of this project.
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
+Distributed under the MIT License. See [LICENSE](LICENSE.md) for details.
